@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "583263135547",
+    "project_id": "hadaia-42cb7",
+    "storage_bucket": "hadaia-42cb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583263135547:android:331b91498d43ea079df91e",
+        "android_client_info": {
+          "package_name": "com.example.hadaia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeD0fNxytX5yiwEAYjfj2LGSuHLbdhrus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
